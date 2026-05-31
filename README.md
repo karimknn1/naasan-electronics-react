@@ -25,3 +25,8 @@ npm.cmd run dev
 ```
 
 Then open the localhost link that appears in the terminal.
+
+
+## Project Status
+
+The project is completed and ready for deployment and submission.
