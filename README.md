@@ -30,3 +30,9 @@ Then open the localhost link that appears in the terminal.
 ## Project Status
 
 The project is completed and ready for deployment and submission.
+
+## Live Demo
+
+The project is deployed online here:
+
+https://naasan-electronics-react1.vercel.app/
