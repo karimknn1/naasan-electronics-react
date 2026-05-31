@@ -31,23 +31,23 @@ Then open the localhost link that appears in the terminal.
 
 ### Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](./Screenshots/home.png)
 
 ### Products Page
 
-![Products Page](./screenshots/products.png)
+![Products Page](./Screenshots/products.png)
 
 ### Cart Page
 
-![Cart Page](./screenshots/cart.png)
+![Cart Page](./Screenshots/cart.png)
 
 ### About / Contact Page
 
-![About Contact Page](./screenshots/contactus.png)
+![About Contact Page](./Screenshots/contactus.png)
 
 ### Mobile Responsive View
 
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./Screenshots/mobile.png)
 
 
 ## Project Status
